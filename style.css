@@ -1,0 +1,17 @@
+body{
+    background-color: aquamarine;
+}
+
+.titulo{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.padre{
+    text-align: center;
+}
+
+.humedad{
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
